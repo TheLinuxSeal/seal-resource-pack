@@ -4,6 +4,8 @@
 /temp/
 /build/*
 /build/
+/trash/
+/trash/*
 
 !/seal-texture-pack/assets/
 !/seal-texture-pack/pack.mcmeta
